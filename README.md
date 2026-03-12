@@ -4,8 +4,8 @@
 Microservice Task Management System with Centralized Logging and JWT Authentication
 
 ## 2. สมาชิกกลุ่ม
-1. นายสรภูริ์  ทองจันทร์ 67543206078-7
-2. นายเกียรติศักดิ์   อุปพรม 67543206002-7
+1. นายสรภูริ์ ทองจันทร์ 67543206078-7
+2. นายเกียรติศักดิ์  อุปพรม 67543206002-7
 
 ## 3. ภาพรวมระบบ
 ระบบจัดการ Task ที่ออกแบบมาในรูปแบบ Microservices โดยเน้นความปลอดภัย (Security) และการตรวจสอบย้อนกลับ (Observability) ผ่าน Centralized Logging ระบบประกอบด้วย Services หลัก ได้แก่ Auth, Task, Log และมี Nginx เป็น Gateway ในการจัดการ HTTPS และ Rate Limiting
